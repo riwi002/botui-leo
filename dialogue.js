@@ -6,7 +6,7 @@ var botui = new BotUI('hello-world');
     }).then(function() {
         return botui.message.bot({
             delay: 1000,
-            content: "我是 芸豆玥，你也可以叫我汤包🍭"
+            content: "我是 糖宝，你也可以叫我汤包🍭"
         })
     }).then(function() {
         return botui.message.bot({
