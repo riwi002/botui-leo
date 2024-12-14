@@ -44,7 +44,7 @@ var botui = new BotUI('hello-world');
         }).then(function() {
             return botui.message.bot({
                 delay: 1500,
-                content: "16岁，是职一"
+                content: "18岁，是高二"
             })
         }).then(function() {
             return botui.message.bot({
