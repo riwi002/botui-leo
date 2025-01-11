@@ -2,7 +2,7 @@ var botui = new BotUI('hello-world');
 
     botui.message.bot({
         delay: 200,
-        content: "Hi, there👋"
+        content: "Hi, 66666👋"
     }).then(function() {
         return botui.message.bot({
             delay: 1000,
